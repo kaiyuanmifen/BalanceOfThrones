@@ -1,0 +1,29 @@
+"","V1","V2","type"
+"1","The Nights Watch","Stannis",1
+"2","Stark","Greyjoy",2
+"3","Stark","Tully",1
+"4","Stark","Arryn",1
+"5","Stark","Lannister",2
+"6","Stark","Tyrell",1
+"7","Stark","Baelish",1
+"8","Stark","Stannis",2
+"9","Stark","Frey",2
+"10","Stark","Bolton",2
+"11","Greyjoy","Stannis",2
+"12","Greyjoy","Bolton",2
+"13","Tully","Lannister",2
+"14","Tully","Frey",1
+"15","Arryn","Lannister",2
+"16","Arryn","Baelish",1
+"17","Lannister","Tyrell",2
+"18","Lannister","Martell",2
+"19","Lannister","Baelish",2
+"20","Lannister","Stannis",2
+"21","Lannister","Frey",1
+"22","Lannister","Bolton",1
+"23","Lannister","Iron Bank",2
+"24","Tyrell","Baelish",1
+"25","Tyrell","Stannis",2
+"26","Stannis","Laddy Melisandre",1
+"27","Stannis","Iron Bank",1
+"28","Frey","Bolton",1
